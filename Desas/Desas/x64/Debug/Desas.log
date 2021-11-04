@@ -1,0 +1,4 @@
+﻿  Desas.cpp
+D:\c++\Desas\Desas\Desas\Desas.cpp(167,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++\Desas\Desas\Desas\Desas.cpp(336,9): warning C4101: 'menu': unreferenced local variable
+  Desas.vcxproj -> D:\c++\Desas\Desas\x64\Debug\Desas.exe
