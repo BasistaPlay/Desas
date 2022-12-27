@@ -7,3 +7,4 @@
 	- Spēlet 2 cilvēki
 ## Izmantotās tehnoloģijas
 	- C++
+r4
